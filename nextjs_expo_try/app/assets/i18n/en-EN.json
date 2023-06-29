@@ -1,0 +1,50 @@
+{
+    "login": {
+        "email": "Email",
+        "password": "Password",
+        "forgotPassword": "Forgot password?",
+        "login": "Login",
+        "signUp": "Sign up",
+        "rememberMe": "Remember me",
+        "createOne": "Don't have an account? Create one",
+        "socialLogin": "Or sign in with social account",
+        "emailRequired": "Email is required",
+        "passwordRequired": "Password should be minimum 3 characters long",
+        "signInWithGoogle": "Sign in with Google",
+        "signInWithApple": "Sign in with Apple",
+        "signInWithFacebook": "Sign in with Facebook"
+    },
+    "addProduct": {
+        "ProductName": "Name",
+        "ProductNameRequired": "Name is required",
+        "nameMaxLength": "Name must be less than 20 characters",
+        "description": "Description",
+        "descriptionMaxLength": "Description must be less than 200 characters",
+        "additionalInfo": "Additional information",
+        "additionalInfoMaxLength": "Additional information must be less than 100 characters",
+        "feedingSchedule": "Feeding schedule",
+        "feedingDetails": "Feeding details",
+        "feedingDetailsMaxLength": "Feeding details must be less than 100 characters",
+        "medication": "Medication",
+        "veterinarianName": "Veterinarian's name",
+        "veterinarianNameMaxLength": "Veterinarian's name must be less than 50 characters",
+        "veterinarianAddress": "Veterinarian's address",
+        "veterinarianAddressMaxLength": "Veterinarian's address must be less than 100 characters",
+        "veterinarianPhone": "Veterinarian's phone",
+        "phoneInvalid": "Phone number is not valid",
+        "gallery": "Gallery",
+        "video": "Video",
+        "createProductProfile": "Create Product profile"
+    },
+    "categoryProduct": {
+        "cat": "CAT",
+        "dog": "DOG",
+        "bird": "BIRD",
+        "bunnie": "BUNNIE",
+        "hamster": "HAMSTER",
+        "fish": "FISH",
+        "guinea_pig": "GUINEA PIG",
+        "ferret": "FERRET",
+        "next": "Next"
+    }
+}

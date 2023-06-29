@@ -1,0 +1,102 @@
+{
+    "login": {
+        "email": "Correo electrónico",
+        "password": "Contraseña",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "login": "Iniciar sesión",
+        "signUp": "Registrarse",
+        "rememberMe": "Recuérdame",
+        "createOne": "¿No tienes una cuenta? Crea una",
+        "socialLogin": "O inicia sesión con tus redes sociales",
+        "emailRequired": "El correo electrónico es obligatorio",
+        "passwordRequired": "La contraseña debe tener al menos 3 caracteres",
+        "signInWithGoogle": "Iniciar sesión con Google",
+        "signInWithApple": "Iniciar sesión con Apple",
+        "signInWithFacebook": "Iniciar sesión con Facebook"
+    },
+    "register": {
+        "emailRequired": "El correo electrónico es obligatorio",
+        "email": "Correo electrónico",
+        "emailInvalid": "El correo electrónico no es válido",
+        "password": "Contraseña",
+        "confirmPassword": "Confirmar contraseña",
+        "register": "Registrarse",
+        "socialLogin": "O inicia sesión con tus redes sociales",
+        "haveAccount": "¿Ya tienes una cuenta? Inicia sesión",
+        "createAnAccount": "Crea una cuenta",
+        "passwordNotMatch": "Las contraseñas no coinciden",
+        "passwordLength": "La contraseña debe tener al menos 8 caracteres",
+        "passwordRequired": "La contraseña es obligatoria",
+        "termsOfUse": "Terminos de uso",
+        "privacyPolicy": "Política de privacidad",
+        "readTermsOfUse": "He leído y acepto los",
+        "name": "Nombre",
+        "nameRequired": "El nombre es obligatorio",
+        "nameMinLength": "El nombre debe tener al menos 3 caracteres",
+        "nameMaxLength": "El nombre debe tener menos de 24 caracteres"
+    },
+    "common": {
+        "and": "y"
+    },
+    "phoneNumber": {
+        "phoneNumber": "Número de teléfono",
+        "sendCode": "Enviar código",
+        "sendYouCode": "Te enviaremos un código de verificación para verificar tu número de teléfono",
+        "addPhoneNumber": "Añadir número de teléfono"
+    },
+    "logout": {
+        "logout": "Cerrar sesión",
+        "logoutMessage": "¿Estás seguro de que quieres cerrar sesión?",
+        "logoutSuccess": "Has cerrado sesión correctamente",
+        "cancel": "Cancelar"
+    },
+    "verificationScreen": {
+        "title": "Código de verificación",
+        "subtitle": "Por favor escribe el código de verificación que te enviamos al número de teléfono",
+        "resendCode": "Reenviar código",
+        "verifyCode": "Verificar ahora"
+    },
+    "myProductsScreen": {
+        "CATS": "GATOS",
+        "DOGS": "PERROS",
+        "BIRDS": "AVES",
+        "BUNNIES": "CONEJOS",
+        "HAMSTERS": "HÁMSTERS",
+        "FISHES": "PECES",
+        "GUINEA_PIGS": "COBAYAS",
+        "FERRETS": "HURONES"
+    },
+    "addProduct": {
+        "ProductName": "Nombre",
+        "ProductNameRequired": "El nombre es obligatorio",
+        "nameMaxLength": "El nombre debe tener menos de 20 caracteres",
+        "description": "Descripción",
+        "descriptionMaxLength": "La descripción debe tener menos de 200 caracteres",
+        "additionalInfo": "Información adicional",
+        "additionalInfoMaxLength": "La información adicional debe tener menos de 100 caracteres",
+        "feedingSchedule": "Horario de alimentación",
+        "feedingDetails": "Detalles de alimentación",
+        "feedingDetailsMaxLength": "Los detalles de alimentación deben tener menos de 100 caracteres",
+        "medication": "Medicación",
+        "veterinarianName": "Nombre del veterinario",
+        "veterinarianNameMaxLength": "El nombre del veterinario debe tener menos de 50 caracteres",
+        "veterinarianAddress": "Dirección del veterinario",
+        "veterinarianAddressMaxLength": "La dirección del veterinario debe tener menos de 100 caracteres",
+        "veterinarianPhone": "Teléfono del veterinario",
+        "phoneInvalid": "El teléfono no es válido",
+        "gallery": "Galería",
+        "video": "Video",
+        "createProductProfile": "Crear perfil de mascota"
+    },
+    "categoryProduct": {
+        "cat": "GATO",
+        "dog": "PERRO",
+        "bird": "AVE",
+        "bunnie": "CONEJO",
+        "hamster": "HÁMSTER",
+        "fish": "PEZ",
+        "guinea_pig": "COBAYA",
+        "ferret": "HURÓN",
+        "next": "Siguiente"
+    }
+}

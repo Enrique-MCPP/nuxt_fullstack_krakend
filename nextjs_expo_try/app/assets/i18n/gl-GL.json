@@ -1,0 +1,17 @@
+{
+    "login" : {
+        "email": "Correo electrónico",
+        "password": "Contrasinal",
+        "forgotPassword": "Esqueciches o teu contrasinal?",
+        "login": "Acceder",
+        "signUp": "Rexistrarse",
+        "rememberMe": "Lémbrame",
+        "createOne": "Non tes unha conta? Crear un",
+        "socialLogin": "Ou inicia sesión coas túas redes sociais",
+        "emailRequired": "O correo electrónico é necesario",
+        "passwordRequired": "O contrasinal debe ter polo menos 3 caracteres",
+        "signInWithGoogle": "Inicia sesión con Google",
+        "signInWithApple": "Inicia sesión con Apple",
+        "signInWithFacebook": "Inicia sesión con Facebook"
+    }
+}

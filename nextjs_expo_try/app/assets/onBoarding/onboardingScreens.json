@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Cuidado confiable de mascotas en tu vecindario",
+        "description": "Encuentra cuidadores de mascotas y paseadores de perros cerca de ti",
+        "image": "pantalla_1"
+    },
+    {
+        "title": "Reserva cuidadores y paseadores",
+        "description": "Elige el servicio que necesitas y reserva al cuidador perfecto para tu mascota. Paga de forma segura directamente a través de nuestra app.",
+        "image": "pantalla_2"
+    },
+    {
+        "title": "Titulo 3",
+        "description": "Descripción 3",
+        "image": "pantalla_3"
+    },
+    {
+        "title": "Titulo 4",
+        "description": "Descripción 4",
+        "image": "pantalla_4"
+    }
+]

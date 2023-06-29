@@ -1,0 +1,542 @@
+[
+    {
+        "slug": "abyssinian",
+        "name": "Abisinio",
+        "short_name": ""
+    },
+    {
+        "slug": "agean",
+        "name": "Agean",
+        "short_name": ""
+    },
+    {
+        "slug": "american-bobtail",
+        "name": "American Bobtail",
+        "short_name": ""
+    },
+    {
+        "slug": "american-shorthair",
+        "name": "American shorthair",
+        "short_name": ""
+    },
+    {
+        "slug": "american-wirehair",
+        "name": "American wirehair",
+        "short_name": ""
+    },
+    {
+        "slug": "anatoli",
+        "name": "Anatoli",
+        "short_name": ""
+    },
+    {
+        "slug": "turkish-angora",
+        "name": "Angora turco",
+        "short_name": "Turkish Angora"
+    },
+    {
+        "slug": "aphrodite-giant",
+        "name": "Aphrodite Giant",
+        "short_name": ""
+    },
+    {
+        "slug": "arabian-mau",
+        "name": "Arabian Mau",
+        "short_name": ""
+    },
+    {
+        "slug": "australian-mist",
+        "name": "Australian Mist",
+        "short_name": ""
+    },
+    {
+        "slug": "aztec",
+        "name": "Aztec",
+        "short_name": ""
+    },
+    {
+        "slug": "russian",
+        "name": "Azul ruso",
+        "short_name": ""
+    },
+    {
+        "slug": "russian-blue",
+        "name": "Azul ruso",
+        "short_name": ""
+    },
+    {
+        "slug": "bengal",
+        "name": "Bengala",
+        "short_name": ""
+    },
+    {
+        "slug": "japanese-bobtail",
+        "name": "Bobtail japonés",
+        "short_name": ""
+    },
+    {
+        "slug": "bombay",
+        "name": "Bombay",
+        "short_name": ""
+    },
+    {
+        "slug": "norwegian-forest",
+        "name": "Bosque de Noruega",
+        "short_name": ""
+    },
+    {
+        "slug": "brazilian-shorthair",
+        "name": "Brazilian Shorthair",
+        "short_name": ""
+    },
+    {
+        "slug": "british-longhair",
+        "name": "British Longhair",
+        "short_name": ""
+    },
+    {
+        "slug": "british-shorthair",
+        "name": "British Shorthair",
+        "short_name": ""
+    },
+    {
+        "slug": "burmese",
+        "name": "Burmés",
+        "short_name": ""
+    },
+    {
+        "slug": "european-burmese",
+        "name": "Burmés",
+        "short_name": ""
+    },
+    {
+        "slug": "mandalay",
+        "name": "Burmés",
+        "short_name": ""
+    },
+    {
+        "slug": "burmilla",
+        "name": "Burmilla",
+        "short_name": ""
+    },
+    {
+        "slug": "california-spangled",
+        "name": "California Spangled",
+        "short_name": ""
+    },
+    {
+        "slug": "ceylon",
+        "name": "Ceylon",
+        "short_name": ""
+    },
+    {
+        "slug": "chartreux",
+        "name": "Chartreux",
+        "short_name": ""
+    },
+    {
+        "slug": "chausie",
+        "name": "Chausie",
+        "short_name": ""
+    },
+    {
+        "slug": "chinchilla",
+        "name": "Chinchilla",
+        "short_name": ""
+    },
+    {
+        "slug": "classicat",
+        "name": "Classicat",
+        "short_name": ""
+    },
+    {
+        "slug": "cornish-rex",
+        "name": "Cornish rex",
+        "short_name": ""
+    },
+    {
+        "slug": "seychellois",
+        "name": "Criollo seychelense",
+        "short_name": ""
+    },
+    {
+        "slug": "american-curl",
+        "name": "Curl Americano",
+        "short_name": ""
+    },
+    {
+        "slug": "cymric",
+        "name": "Cymric",
+        "short_name": ""
+    },
+    {
+        "slug": "devon-rex",
+        "name": "Devon rex",
+        "short_name": ""
+    },
+    {
+        "slug": "domestic-longhair",
+        "name": "Domestic Longhair",
+        "short_name": ""
+    },
+    {
+        "slug": "domestic-shorthair",
+        "name": "Domestic Shorthair",
+        "short_name": ""
+    },
+    {
+        "slug": "donskoy",
+        "name": "Don Sphynx",
+        "short_name": "Donskoy"
+    },
+    {
+        "slug": "chinese-li-hua",
+        "name": "Dragon Li",
+        "short_name": ""
+    },
+    {
+        "slug": "foldex",
+        "name": "Foldex",
+        "short_name": ""
+    },
+    {
+        "slug": "foreign-white",
+        "name": "Foreign White",
+        "short_name": ""
+    },
+    {
+        "slug": "asian-tabby",
+        "name": "Gato atigrado",
+        "short_name": ""
+    },
+    {
+        "slug": "balinese",
+        "name": "Gato balinés",
+        "short_name": ""
+    },
+    {
+        "slug": "celtic-shorthair",
+        "name": "Gato celta de pelo corto",
+        "short_name": ""
+    },
+    {
+        "slug": "colorpoint-shorthair",
+        "name": "Gato color point",
+        "short_name": ""
+    },
+    {
+        "slug": "european-shorthair",
+        "name": "Gato común europeo",
+        "short_name": ""
+    },
+    {
+        "slug": "exotic-shorthair",
+        "name": "Gato exótico",
+        "short_name": ""
+    },
+    {
+        "slug": "himalayan",
+        "name": "Gato himalayo",
+        "short_name": ""
+    },
+    {
+        "slug": "oriental-shorthair",
+        "name": "Gato oriental",
+        "short_name": ""
+    },
+    {
+        "slug": "oriental-longhair",
+        "name": "Gato oriental de pelo largo",
+        "short_name": ""
+    },
+    {
+        "slug": "oriental-semi-longhair",
+        "name": "Gato oriental de pelo semilargo",
+        "short_name": ""
+    },
+    {
+        "slug": "skookum",
+        "name": "Gato Skookum",
+        "short_name": ""
+    },
+    {
+        "slug": "tonkinese",
+        "name": "Gato tonkinés",
+        "short_name": ""
+    },
+    {
+        "slug": "turkish-van",
+        "name": "Gato Van Turco",
+        "short_name": ""
+    },
+    {
+        "slug": "turkish-vankedisi",
+        "name": "Gato Van Turco",
+        "short_name": ""
+    },
+    {
+        "slug": "german-rex",
+        "name": "German Rex",
+        "short_name": ""
+    },
+    {
+        "slug": "havana-brown",
+        "name": "Habana brown",
+        "short_name": ""
+    },
+    {
+        "slug": "highlander",
+        "name": "Highlander",
+        "short_name": ""
+    },
+    {
+        "slug": "kanaani",
+        "name": "Hossein Kanaani",
+        "short_name": ""
+    },
+    {
+        "slug": "javanese",
+        "name": "Idioma javanés",
+        "short_name": "Javanese"
+    },
+    {
+        "slug": "manx",
+        "name": "Idioma manés",
+        "short_name": ""
+    },
+    {
+        "slug": "persian",
+        "name": "Idioma persa",
+        "short_name": ""
+    },
+    {
+        "slug": "somali",
+        "name": "Idioma somalí",
+        "short_name": ""
+    },
+    {
+        "slug": "siamese",
+        "name": "Idioma tailandés",
+        "short_name": ""
+    },
+    {
+        "slug": "thai",
+        "name": "Idioma tailandés",
+        "short_name": "Thai"
+    },
+    {
+        "slug": "asian",
+        "name": "Juegos Asiáticos",
+        "short_name": ""
+    },
+    {
+        "slug": "karelian-bobtail",
+        "name": "Karelian Bobtail",
+        "short_name": ""
+    },
+    {
+        "slug": "khao-manee",
+        "name": "Khao Manee",
+        "short_name": ""
+    },
+    {
+        "slug": "korat",
+        "name": "Korat",
+        "short_name": ""
+    },
+    {
+        "slug": "kurilian-bobtail",
+        "name": "Kurilian Bobtail",
+        "short_name": ""
+    },
+    {
+        "slug": "laperm",
+        "name": "LaPerm",
+        "short_name": ""
+    },
+    {
+        "slug": "lykoi",
+        "name": "Lykoi",
+        "short_name": ""
+    },
+    {
+        "slug": "maine-coon",
+        "name": "Maine Coon",
+        "short_name": ""
+    },
+    {
+        "slug": "mandarin",
+        "name": "Mandarin",
+        "short_name": ""
+    },
+    {
+        "slug": "egyptian-mau",
+        "name": "Mau egipcio",
+        "short_name": ""
+    },
+    {
+        "slug": "mekong-bobtail",
+        "name": "Mekong Bobtail",
+        "short_name": ""
+    },
+    {
+        "slug": "minskin",
+        "name": "Minskin",
+        "short_name": ""
+    },
+    {
+        "slug": "moggie",
+        "name": "Moggie",
+        "short_name": ""
+    },
+    {
+        "slug": "munchkin",
+        "name": "Munchkin",
+        "short_name": ""
+    },
+    {
+        "slug": "napoleon",
+        "name": "Napoleon / Minuet",
+        "short_name": "Napoleon"
+    },
+    {
+        "slug": "nebelung",
+        "name": "Nebelung",
+        "short_name": ""
+    },
+    {
+        "slug": "neva-masquerade",
+        "name": "Neva Masquerade",
+        "short_name": ""
+    },
+    {
+        "slug": "ocicat",
+        "name": "Ocicat",
+        "short_name": ""
+    },
+    {
+        "slug": "ojos-azules",
+        "name": "Ojos Azules",
+        "short_name": ""
+    },
+    {
+        "slug": "deutsch-langhaar",
+        "name": "Perro de muestra alemán de pelo largo",
+        "short_name": ""
+    },
+    {
+        "slug": "Producterbald",
+        "name": "Producterbald",
+        "short_name": ""
+    },
+    {
+        "slug": "pixiebob",
+        "name": "Pixie Bob",
+        "short_name": ""
+    },
+    {
+        "slug": "polydactyl",
+        "name": "Polydactyl",
+        "short_name": ""
+    },
+    {
+        "slug": "ragamuffin",
+        "name": "Ragamuffin",
+        "short_name": ""
+    },
+    {
+        "slug": "ragdoll",
+        "name": "Ragdoll",
+        "short_name": ""
+    },
+    {
+        "slug": "safari",
+        "name": "Safari",
+        "short_name": ""
+    },
+    {
+        "slug": "birman",
+        "name": "Sagrado de Birmania",
+        "short_name": ""
+    },
+    {
+        "slug": "savannah",
+        "name": "Savannah",
+        "short_name": ""
+    },
+    {
+        "slug": "highland-fold",
+        "name": "Scottish Fold",
+        "short_name": ""
+    },
+    {
+        "slug": "scottish-fold",
+        "name": "Scottish Fold",
+        "short_name": ""
+    },
+    {
+        "slug": "scottish-straight",
+        "name": "Scottish Fold",
+        "short_name": ""
+    },
+    {
+        "slug": "selkirk-rex",
+        "name": "Selkirk rex",
+        "short_name": ""
+    },
+    {
+        "slug": "serengeti",
+        "name": "Serengeti",
+        "short_name": ""
+    },
+    {
+        "slug": "siberian",
+        "name": "Siberiano",
+        "short_name": ""
+    },
+    {
+        "slug": "singapura",
+        "name": "Singapura",
+        "short_name": ""
+    },
+    {
+        "slug": "snowshoe",
+        "name": "Snowshoe",
+        "short_name": ""
+    },
+    {
+        "slug": "sokoke",
+        "name": "Sokoke",
+        "short_name": ""
+    },
+    {
+        "slug": "sphynx",
+        "name": "Sphynx",
+        "short_name": ""
+    },
+    {
+        "slug": "suffolk",
+        "name": "Suffolk",
+        "short_name": ""
+    },
+    {
+        "slug": "tiffanie",
+        "name": "Tiffanie / Chantilly",
+        "short_name": "Tiffanie"
+    },
+    {
+        "slug": "toyger",
+        "name": "Toyger",
+        "short_name": ""
+    },
+    {
+        "slug": "ural-rex",
+        "name": "Ural Rex",
+        "short_name": ""
+    },
+    {
+        "slug": "york-chocolate",
+        "name": "York Chocolate",
+        "short_name": ""
+    }
+]

@@ -1,0 +1,2647 @@
+[
+    {
+        "slug": "affenpinscher",
+        "name": "Affenpinscher",
+        "short_name": ""
+    },
+    {
+        "slug": "africanis",
+        "name": "Africanis",
+        "short_name": ""
+    },
+    {
+        "slug": "aidi",
+        "name": "Aïdi",
+        "short_name": ""
+    },
+    {
+        "slug": "airedale-terrier",
+        "name": "Airedale terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "akbash-dog",
+        "name": "Akbash",
+        "short_name": ""
+    },
+    {
+        "slug": "american-akita",
+        "name": "Akita Americano",
+        "short_name": ""
+    },
+    {
+        "slug": "akita-inu",
+        "name": "Akita Inu",
+        "short_name": ""
+    },
+    {
+        "slug": "bully-kutta",
+        "name": "Alangu",
+        "short_name": ""
+    },
+    {
+        "slug": "alaunt",
+        "name": "Alano",
+        "short_name": ""
+    },
+    {
+        "slug": "alano-espanol",
+        "name": "Alano español",
+        "short_name": ""
+    },
+    {
+        "slug": "alapaha-blue-blood-bulldog",
+        "name": "Alapaha Blue Blood Bulldog",
+        "short_name": ""
+    },
+    {
+        "slug": "alaskan-husky",
+        "name": "Alaskan Husky",
+        "short_name": ""
+    },
+    {
+        "slug": "alaskan-klee-kai",
+        "name": "Alaskan Klee Kai",
+        "short_name": ""
+    },
+    {
+        "slug": "alpine-dachsbracke",
+        "name": "Alpine Dachsbracke",
+        "short_name": ""
+    },
+    {
+        "slug": "alpine-spaniel",
+        "name": "Alpine Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "american-alsatian",
+        "name": "Alsaciano americano",
+        "short_name": ""
+    },
+    {
+        "slug": "american-bully",
+        "name": "American bully",
+        "short_name": ""
+    },
+    {
+        "slug": "english-coonhound",
+        "name": "American english coonhound",
+        "short_name": ""
+    },
+    {
+        "slug": "american-staffordshire-terrier",
+        "name": "American Staffordshire terrier",
+        "short_name": "Staffy"
+    },
+    {
+        "slug": "anglo-francais-de-Productite-venerie",
+        "name": "Anglo-Francais de Productite Vénerie",
+        "short_name": ""
+    },
+    {
+        "slug": "antebellum-bulldog",
+        "name": "Antebellum Bulldog",
+        "short_name": ""
+    },
+    {
+        "slug": "old-english-bulldog",
+        "name": "Antiguo Bulldog Inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "old-danish-pointer",
+        "name": "Antiguo perro de muestra danés",
+        "short_name": ""
+    },
+    {
+        "slug": "armant",
+        "name": "Armant",
+        "short_name": ""
+    },
+    {
+        "slug": "armenian-gampr-dog",
+        "name": "Armenian Gampr dog",
+        "short_name": ""
+    },
+    {
+        "slug": "australian-bulldog",
+        "name": "Australian Bulldog",
+        "short_name": ""
+    },
+    {
+        "slug": "australian-stumpy-tail-cattle-dog",
+        "name": "Australian Stumpy Tail Cattle Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "austrian-black-and-tan-hound",
+        "name": "Austrian Black and Tan Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "austrian-pinscher",
+        "name": "Austrian Pinscher",
+        "short_name": ""
+    },
+    {
+        "slug": "azawakh",
+        "name": "Azawakh",
+        "short_name": ""
+    },
+    {
+        "slug": "bakharwal-dog",
+        "name": "Bakharwal",
+        "short_name": ""
+    },
+    {
+        "slug": "thai-bangkaew-dog",
+        "name": "Bangkaew tailandés",
+        "short_name": ""
+    },
+    {
+        "slug": "barbet",
+        "name": "Barbet",
+        "short_name": ""
+    },
+    {
+        "slug": "basenji",
+        "name": "Basenji",
+        "short_name": ""
+    },
+    {
+        "slug": "basset-artesien-normand",
+        "name": "Basset artesiano de Normandía",
+        "short_name": ""
+    },
+    {
+        "slug": "basset-bleu-de-gascogne",
+        "name": "Basset Bleu de Gascogne",
+        "short_name": ""
+    },
+    {
+        "slug": "basset-fauve-de-bretagne",
+        "name": "Basset Fauve de Bretagne",
+        "short_name": ""
+    },
+    {
+        "slug": "basset-hound",
+        "name": "Basset hound",
+        "short_name": ""
+    },
+    {
+        "slug": "beagle",
+        "name": "Beagle",
+        "short_name": ""
+    },
+    {
+        "slug": "beagle-harrier",
+        "name": "Beagle Harrier",
+        "short_name": ""
+    },
+    {
+        "slug": "beauceron",
+        "name": "Beauceron",
+        "short_name": ""
+    },
+    {
+        "slug": "bedlington-terrier",
+        "name": "Bedlington terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "bergamasco-shepherd",
+        "name": "Bergamasco",
+        "short_name": ""
+    },
+    {
+        "slug": "berger-picard",
+        "name": "Berger Picard",
+        "short_name": ""
+    },
+    {
+        "slug": "bernedoodle",
+        "name": "Bernedoodle",
+        "short_name": ""
+    },
+    {
+        "slug": "berner-laufhund",
+        "name": "Berner Laufhund",
+        "short_name": ""
+    },
+    {
+        "slug": "bichon-frise",
+        "name": "Bichón frisé",
+        "short_name": ""
+    },
+    {
+        "slug": "havanese",
+        "name": "Bichón habanero",
+        "short_name": ""
+    },
+    {
+        "slug": "billy",
+        "name": "Billy",
+        "short_name": ""
+    },
+    {
+        "slug": "bisben",
+        "name": "Bisben",
+        "short_name": ""
+    },
+    {
+        "slug": "black-and-tan-coonhound",
+        "name": "Black and tan coonhound",
+        "short_name": ""
+    },
+    {
+        "slug": "black-and-tan-virginia-foxhound",
+        "name": "Black and Tan Virginia Foxhound",
+        "short_name": ""
+    },
+    {
+        "slug": "black-norwegian-elkhound",
+        "name": "Black Norwegian Elkhound",
+        "short_name": ""
+    },
+    {
+        "slug": "blackmouth-cur",
+        "name": "Blackmouth Cur",
+        "short_name": ""
+    },
+    {
+        "slug": "blue-lacy",
+        "name": "Blue Lacy",
+        "short_name": ""
+    },
+    {
+        "slug": "blue-paul-terrier",
+        "name": "Blue Paul Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "bluetick-coonhound",
+        "name": "Bluetick coonhound",
+        "short_name": ""
+    },
+    {
+        "slug": "old-english-sheepdog",
+        "name": "Bobtail",
+        "short_name": ""
+    },
+    {
+        "slug": "boerboel",
+        "name": "Boerboel",
+        "short_name": ""
+    },
+    {
+        "slug": "bolonka-zwetna",
+        "name": "Bolonka Zwetna",
+        "short_name": ""
+    },
+    {
+        "slug": "royal-bourbon",
+        "name": "Borbón real",
+        "short_name": ""
+    },
+    {
+        "slug": "border-collie",
+        "name": "Border collie",
+        "short_name": ""
+    },
+    {
+        "slug": "border-terrier",
+        "name": "Border terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "borzoi",
+        "name": "Borzoi",
+        "short_name": ""
+    },
+    {
+        "slug": "boston-terrier",
+        "name": "Boston terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "bouvier-des-ardennes",
+        "name": "Bouvier des Ardennes",
+        "short_name": ""
+    },
+    {
+        "slug": "boxer",
+        "name": "Bóxer",
+        "short_name": ""
+    },
+    {
+        "slug": "appenzeller-sennenhund",
+        "name": "Boyero de Appenzell",
+        "short_name": ""
+    },
+    {
+        "slug": "bernese-mountain-dog",
+        "name": "Boyero de Berna",
+        "short_name": "Bernese"
+    },
+    {
+        "slug": "entlebucher-mountain-dog",
+        "name": "Boyero de Entlebuch",
+        "short_name": ""
+    },
+    {
+        "slug": "bouvier-des-flandres",
+        "name": "Boyero de Flandes",
+        "short_name": ""
+    },
+    {
+        "slug": "boykin-spaniel",
+        "name": "Boykin Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "german-shorthaired-pointer",
+        "name": "Braco alemán de pelo corto",
+        "short_name": "Pointer"
+    },
+    {
+        "slug": "german-wirehaired-pointer",
+        "name": "Braco alemán de pelo duro",
+        "short_name": ""
+    },
+    {
+        "slug": "ariege-pointer",
+        "name": "Braco de Ariège",
+        "short_name": ""
+    },
+    {
+        "slug": "braque-dauvergne",
+        "name": "Braco de Auvernia",
+        "short_name": ""
+    },
+    {
+        "slug": "braque-saint-germain",
+        "name": "Braco de Saint Germain",
+        "short_name": ""
+    },
+    {
+        "slug": "weimaraner",
+        "name": "Braco de Weimar",
+        "short_name": ""
+    },
+    {
+        "slug": "braque-francais",
+        "name": "Braco francés",
+        "short_name": ""
+    },
+    {
+        "slug": "bracco-italiano",
+        "name": "Braco italiano",
+        "short_name": ""
+    },
+    {
+        "slug": "tyrolean-hound",
+        "name": "Braco tirolés",
+        "short_name": ""
+    },
+    {
+        "slug": "braque-du-bourbonnais",
+        "name": "Braque du Bourbonnais",
+        "short_name": ""
+    },
+    {
+        "slug": "braque-du-puy",
+        "name": "Braque du Puy",
+        "short_name": ""
+    },
+    {
+        "slug": "briquet-griffon-vendeen",
+        "name": "Briquet Griffon Vendéen",
+        "short_name": ""
+    },
+    {
+        "slug": "broholmer",
+        "name": "Broholmer",
+        "short_name": ""
+    },
+    {
+        "slug": "bruno-jura-hound",
+        "name": "Bruno del Jura",
+        "short_name": ""
+    },
+    {
+        "slug": "norwegian-buhund",
+        "name": "Buhund noruego",
+        "short_name": ""
+    },
+    {
+        "slug": "bull-and-terrier",
+        "name": "Bull and Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "bull-terrier",
+        "name": "Bull terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "bull-terrier-miniature",
+        "name": "Bull Terrier (Miniature)",
+        "short_name": ""
+    },
+    {
+        "slug": "bulldog",
+        "name": "Bulldog",
+        "short_name": ""
+    },
+    {
+        "slug": "english-bulldog",
+        "name": "Bulldog",
+        "short_name": ""
+    },
+    {
+        "slug": "american-bulldog",
+        "name": "Bulldog americano",
+        "short_name": ""
+    },
+    {
+        "slug": "bulldog-campeiro",
+        "name": "Bulldog Campeiro",
+        "short_name": ""
+    },
+    {
+        "slug": "continental-bulldog",
+        "name": "Bulldog continental",
+        "short_name": ""
+    },
+    {
+        "slug": "french-bulldog",
+        "name": "Bulldog francés",
+        "short_name": ""
+    },
+    {
+        "slug": "bullenbeisser",
+        "name": "Bullenbeisser",
+        "short_name": ""
+    },
+    {
+        "slug": "bullmastiff",
+        "name": "Bullmastiff",
+        "short_name": ""
+    },
+    {
+        "slug": "cairn-terrier",
+        "name": "Cairn terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "canadian-pointer",
+        "name": "Canadian Pointer",
+        "short_name": ""
+    },
+    {
+        "slug": "canary-mastiff",
+        "name": "Canary Mastiff",
+        "short_name": ""
+    },
+    {
+        "slug": "miniature-poodle",
+        "name": "Caniche",
+        "short_name": ""
+    },
+    {
+        "slug": "poodle",
+        "name": "Caniche",
+        "short_name": ""
+    },
+    {
+        "slug": "toy-poodle",
+        "name": "Caniche Toy",
+        "short_name": ""
+    },
+    {
+        "slug": "new-guinea-singing-dog",
+        "name": "Canis lupus hallstromi",
+        "short_name": ""
+    },
+    {
+        "slug": "estrela-mountain-dog",
+        "name": "Cão da Serra da Estrela",
+        "short_name": ""
+    },
+    {
+        "slug": "cao-da-serra-de-aires",
+        "name": "Cão da Serra de Aires",
+        "short_name": ""
+    },
+    {
+        "slug": "portuguese-water-dog",
+        "name": "Cão de água português",
+        "short_name": ""
+    },
+    {
+        "slug": "cao-fila-de-sao-miguel",
+        "name": "Cão de Fila de São Miguel",
+        "short_name": ""
+    },
+    {
+        "slug": "catahoula-cur",
+        "name": "Catahoula Cur",
+        "short_name": ""
+    },
+    {
+        "slug": "cavalier-king-charles-spaniel",
+        "name": "Cavalier King Charles spaniel",
+        "short_name": "Cavalier"
+    },
+    {
+        "slug": "norwegian-elkhound",
+        "name": "Cazador de alces noruego",
+        "short_name": ""
+    },
+    {
+        "slug": "cesky-fousek",
+        "name": "Cesky Fousek",
+        "short_name": ""
+    },
+    {
+        "slug": "chien-francais-blanc-et-noir",
+        "name": "Chien Francais Blanc et Noir",
+        "short_name": ""
+    },
+    {
+        "slug": "chien-francais-blanc-et-orange",
+        "name": "Chien Francais Blanc et Orange",
+        "short_name": ""
+    },
+    {
+        "slug": "chien-francais-tricolore",
+        "name": "Chien Francais Tricolore",
+        "short_name": ""
+    },
+    {
+        "slug": "chien-gris",
+        "name": "Chien-gris",
+        "short_name": ""
+    },
+    {
+        "slug": "chihuahua",
+        "name": "Chihuahua",
+        "short_name": ""
+    },
+    {
+        "slug": "chinese-chongqing-dog",
+        "name": "Chinese Chongqing Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "chinese-imperial-dog",
+        "name": "Chinese Imperial Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "chinook",
+        "name": "Chinook",
+        "short_name": ""
+    },
+    {
+        "slug": "chippiparai",
+        "name": "Chippiparai",
+        "short_name": ""
+    },
+    {
+        "slug": "chow-chow",
+        "name": "Chow Chow",
+        "short_name": ""
+    },
+    {
+        "slug": "cierny-sery",
+        "name": "Cierny Sery",
+        "short_name": ""
+    },
+    {
+        "slug": "cirneco-delletna",
+        "name": "Cirneco del Etna",
+        "short_name": ""
+    },
+    {
+        "slug": "clumber-spaniel",
+        "name": "Clumber spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "flat-coated-retriever",
+        "name": "Cobrador de pelo liso",
+        "short_name": ""
+    },
+    {
+        "slug": "cockapoo",
+        "name": "Cockapoo",
+        "short_name": ""
+    },
+    {
+        "slug": "american-cocker-spaniel",
+        "name": "Cocker americano",
+        "short_name": ""
+    },
+    {
+        "slug": "Cocker_Spaniel",
+        "name": "Cocker spaniel inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "english-cocker-spaniel",
+        "name": "Cocker spaniel inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "bearded-collie",
+        "name": "Collie barbudo",
+        "short_name": ""
+    },
+    {
+        "slug": "smooth-collie",
+        "name": "Collie de pelo corto",
+        "short_name": ""
+    },
+    {
+        "slug": "rough-collie",
+        "name": "Collie de pelo largo",
+        "short_name": ""
+    },
+    {
+        "slug": "combai",
+        "name": "Combai",
+        "short_name": ""
+    },
+    {
+        "slug": "cardigan-welsh-corgi",
+        "name": "Corgi galés de Cardigan",
+        "short_name": "Corgi"
+    },
+    {
+        "slug": "pembroke-welsh-corgi",
+        "name": "Corgi galés de Pembroke",
+        "short_name": "Corgi"
+    },
+    {
+        "slug": "coton-de-tulear",
+        "name": "Cotón de Tulear",
+        "short_name": ""
+    },
+    {
+        "slug": "chinese-crested-dog",
+        "name": "Crestado chino",
+        "short_name": ""
+    },
+    {
+        "slug": "creole",
+        "name": "Criollo",
+        "short_name": ""
+    },
+    {
+        "slug": "croatian-sheepdog",
+        "name": "Croatian Sheepdog",
+        "short_name": ""
+    },
+    {
+        "slug": "cumberland-sheepdog",
+        "name": "Cumberland Sheepdog",
+        "short_name": ""
+    },
+    {
+        "slug": "cursinu",
+        "name": "Cursinu",
+        "short_name": ""
+    },
+    {
+        "slug": "slovak-cuvac",
+        "name": "Cuvac eslovaco",
+        "short_name": ""
+    },
+    {
+        "slug": "dachshund",
+        "name": "Dachshund",
+        "short_name": ""
+    },
+    {
+        "slug": "dalmatian",
+        "name": "Dálmata",
+        "short_name": ""
+    },
+    {
+        "slug": "dandie-dinmont-terrier",
+        "name": "Dandie Dinmont terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "doberman-pinscher",
+        "name": "Dóberman",
+        "short_name": ""
+    },
+    {
+        "slug": "argentine-dogo",
+        "name": "Dogo argentino",
+        "short_name": ""
+    },
+    {
+        "slug": "dogo-cubano",
+        "name": "Dogo cubano",
+        "short_name": ""
+    },
+    {
+        "slug": "dogue-de-bordeaux",
+        "name": "Dogo de Burdeos",
+        "short_name": ""
+    },
+    {
+        "slug": "tibetan-mastiff",
+        "name": "Dogo del Tíbet",
+        "short_name": ""
+    },
+    {
+        "slug": "dogo-guatemalteco",
+        "name": "Dogo guatemalteco",
+        "short_name": ""
+    },
+    {
+        "slug": "dogo-sardesco",
+        "name": "Dogo Sardesco",
+        "short_name": ""
+    },
+    {
+        "slug": "drever",
+        "name": "Drever",
+        "short_name": ""
+    },
+    {
+        "slug": "dunker",
+        "name": "Dunker",
+        "short_name": ""
+    },
+    {
+        "slug": "east-siberian-laika",
+        "name": "East Siberian Laika",
+        "short_name": ""
+    },
+    {
+        "slug": "landseer",
+        "name": "Edwin Landseer",
+        "short_name": ""
+    },
+    {
+        "slug": "english-water-spaniel",
+        "name": "English Water Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "epagneul-bleu-de-picardie",
+        "name": "Épagneul Bleu de Picardie",
+        "short_name": ""
+    },
+    {
+        "slug": "eurasier",
+        "name": "Eurasier",
+        "short_name": ""
+    },
+    {
+        "slug": "fila-brasileiro",
+        "name": "Fila brasileiro",
+        "short_name": ""
+    },
+    {
+        "slug": "finnish-hound",
+        "name": "Finnish Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "finnish-lapphund",
+        "name": "Finnish Lapphund",
+        "short_name": ""
+    },
+    {
+        "slug": "fox-terrier",
+        "name": "Fox Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "wire-fox-terrier",
+        "name": "Fox terrier de pelo duro",
+        "short_name": ""
+    },
+    {
+        "slug": "fox-terrier-smooth",
+        "name": "Fox terrier de pelo liso",
+        "short_name": ""
+    },
+    {
+        "slug": "american-foxhound",
+        "name": "Foxhound americano",
+        "short_name": ""
+    },
+    {
+        "slug": "english-foxhound",
+        "name": "Foxhound inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "galgo-espanol",
+        "name": "Galgo español",
+        "short_name": ""
+    },
+    {
+        "slug": "greyhound",
+        "name": "Galgo inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "gascon-saintongeois",
+        "name": "Gascon Saintongeois",
+        "short_name": ""
+    },
+    {
+        "slug": "german-spitz",
+        "name": "German Spitz",
+        "short_name": ""
+    },
+    {
+        "slug": "bolognese",
+        "name": "Giovanni Francesco Grimaldi",
+        "short_name": ""
+    },
+    {
+        "slug": "glen-of-imaal-terrier",
+        "name": "Glen of Imaal Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "golden-retriever",
+        "name": "Golden retriever",
+        "short_name": ""
+    },
+    {
+        "slug": "goldendoodle",
+        "name": "Goldendoodle",
+        "short_name": ""
+    },
+    {
+        "slug": "gordon-setter",
+        "name": "Gordon setter",
+        "short_name": ""
+    },
+    {
+        "slug": "greater-swiss-mountain-dog",
+        "name": "Gran boyero suizo",
+        "short_name": ""
+    },
+    {
+        "slug": "great-dane",
+        "name": "Gran danés",
+        "short_name": ""
+    },
+    {
+        "slug": "gran-mastin-de-borinquen",
+        "name": "Gran Mastin de Borinquen",
+        "short_name": ""
+    },
+    {
+        "slug": "grand-anglo-francais-blanc-et-noir",
+        "name": "Grand Anglo-Francais Blanc et Noir",
+        "short_name": ""
+    },
+    {
+        "slug": "grand-anglo-francais-blanc-et-orange",
+        "name": "Grand Anglo-Francais Blanc et Orange",
+        "short_name": ""
+    },
+    {
+        "slug": "grand-basset-griffon-vendeen",
+        "name": "Grand Basset Griffon Vendeen",
+        "short_name": ""
+    },
+    {
+        "slug": "grand-bleu-de-gascogne",
+        "name": "Grand Bleu de Gascogne",
+        "short_name": ""
+    },
+    {
+        "slug": "griffon-bleu-de-gascogne",
+        "name": "Griffon Bleu de Gascogne",
+        "short_name": ""
+    },
+    {
+        "slug": "griffon-fauve-de-bretagne",
+        "name": "Griffon Fauve de Bretagne",
+        "short_name": ""
+    },
+    {
+        "slug": "brussels-griffon",
+        "name": "Grifón de Bruselas",
+        "short_name": ""
+    },
+    {
+        "slug": "griffon-bruxellois",
+        "name": "Grifón de Bruselas",
+        "short_name": ""
+    },
+    {
+        "slug": "wirehaired-pointing-griffon",
+        "name": "Grifón Korthals",
+        "short_name": ""
+    },
+    {
+        "slug": "griffon-nivernais",
+        "name": "Grifón nivernais",
+        "short_name": ""
+    },
+    {
+        "slug": "Productit-basset-griffon-vendeen",
+        "name": "Grifón vandeano basset pequeño",
+        "short_name": ""
+    },
+    {
+        "slug": "grand-griffon-vendeen",
+        "name": "Grifón vandeano grande",
+        "short_name": ""
+    },
+    {
+        "slug": "gull-dong",
+        "name": "Gull Dong",
+        "short_name": ""
+    },
+    {
+        "slug": "gull-terr",
+        "name": "Gull Terr",
+        "short_name": ""
+    },
+    {
+        "slug": "hamiltonstovare",
+        "name": "Hamiltonstovare",
+        "short_name": ""
+    },
+    {
+        "slug": "hare-indian-dog",
+        "name": "Hare Indian Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "harrier",
+        "name": "Harrier",
+        "short_name": ""
+    },
+    {
+        "slug": "hokkaido",
+        "name": "Hokkaidō",
+        "short_name": ""
+    },
+    {
+        "slug": "hortaya-borzaya",
+        "name": "Hortaya borzaya",
+        "short_name": ""
+    },
+    {
+        "slug": "hovawart",
+        "name": "Hovawart",
+        "short_name": ""
+    },
+    {
+        "slug": "sakhalin-husky",
+        "name": "Husky de Sajalín",
+        "short_name": ""
+    },
+    {
+        "slug": "siberian-husky",
+        "name": "Husky siberiano",
+        "short_name": ""
+    },
+    {
+        "slug": "maltese",
+        "name": "Idioma maltés",
+        "short_name": ""
+    },
+    {
+        "slug": "irish-red-and-white-setter",
+        "name": "Irish Red and White Setter",
+        "short_name": ""
+    },
+    {
+        "slug": "istrian-coarse-haired-hound",
+        "name": "Istrian Coarse-haired Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "jack-russell-terrier",
+        "name": "Jack Russell terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "russell-terrier",
+        "name": "Jack Russell terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "jamthund",
+        "name": "Jämthund",
+        "short_name": ""
+    },
+    {
+        "slug": "jonangi",
+        "name": "Jonangi",
+        "short_name": ""
+    },
+    {
+        "slug": "kai-ken",
+        "name": "Kai",
+        "short_name": ""
+    },
+    {
+        "slug": "kaikadi",
+        "name": "Kaikadi",
+        "short_name": ""
+    },
+    {
+        "slug": "kangal-dog",
+        "name": "Kangal",
+        "short_name": ""
+    },
+    {
+        "slug": "kanni",
+        "name": "Kanni",
+        "short_name": ""
+    },
+    {
+        "slug": "karakachan-dog",
+        "name": "Karakachan",
+        "short_name": ""
+    },
+    {
+        "slug": "keeshond",
+        "name": "Keeshond",
+        "short_name": ""
+    },
+    {
+        "slug": "australian-kelpie",
+        "name": "Kelpie australiano",
+        "short_name": ""
+    },
+    {
+        "slug": "kerry-beagle",
+        "name": "Kerry Beagle",
+        "short_name": ""
+    },
+    {
+        "slug": "kerry-blue-terrier",
+        "name": "Kerry blue terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "king-shepherd",
+        "name": "King Shepherd",
+        "short_name": ""
+    },
+    {
+        "slug": "kintamani",
+        "name": "Kintamani",
+        "short_name": ""
+    },
+    {
+        "slug": "kishu",
+        "name": "Kishu",
+        "short_name": ""
+    },
+    {
+        "slug": "komondor",
+        "name": "Komondor",
+        "short_name": ""
+    },
+    {
+        "slug": "koolie",
+        "name": "Koolie",
+        "short_name": ""
+    },
+    {
+        "slug": "slovensky-kopov",
+        "name": "Kopov eslovaco",
+        "short_name": ""
+    },
+    {
+        "slug": "korean-mastiff",
+        "name": "Korean Mastiff",
+        "short_name": ""
+    },
+    {
+        "slug": "cretan-hound",
+        "name": "Kritikos Lagonikos",
+        "short_name": ""
+    },
+    {
+        "slug": "kromfohrlander",
+        "name": "Kromfohrländer",
+        "short_name": ""
+    },
+    {
+        "slug": "kuri",
+        "name": "Kurī",
+        "short_name": ""
+    },
+    {
+        "slug": "kuvasz",
+        "name": "Kuvasz",
+        "short_name": ""
+    },
+    {
+        "slug": "kyi-leo",
+        "name": "Kyi-Leo",
+        "short_name": ""
+    },
+    {
+        "slug": "labahoula",
+        "name": "Labahoula",
+        "short_name": ""
+    },
+    {
+        "slug": "labradoodle",
+        "name": "Labradoodle",
+        "short_name": ""
+    },
+    {
+        "slug": "labrador-husky",
+        "name": "Labrador Husky",
+        "short_name": ""
+    },
+    {
+        "slug": "labrador-retriever",
+        "name": "Labrador retriever",
+        "short_name": ""
+    },
+    {
+        "slug": "lagotto-romagnolo",
+        "name": "Lagotto romagnolo",
+        "short_name": ""
+    },
+    {
+        "slug": "west-siberian-laika",
+        "name": "Laika de Siberia Occidental",
+        "short_name": ""
+    },
+    {
+        "slug": "russo-european-laika",
+        "name": "Laika ruso europeo",
+        "short_name": ""
+    },
+    {
+        "slug": "lakeland-terrier",
+        "name": "Lakeland terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "lancashire-heeler",
+        "name": "Lancashire Heeler",
+        "short_name": ""
+    },
+    {
+        "slug": "afghan-hound",
+        "name": "Lebrel afgano",
+        "short_name": ""
+    },
+    {
+        "slug": "scottish-deerhound",
+        "name": "Lebrel escocés",
+        "short_name": ""
+    },
+    {
+        "slug": "magyar-agar",
+        "name": "Lebrel húngaro",
+        "short_name": ""
+    },
+    {
+        "slug": "italian-greyhound",
+        "name": "Lebrel italiano",
+        "short_name": ""
+    },
+    {
+        "slug": "polish-greyhound",
+        "name": "Lebrel polaco",
+        "short_name": ""
+    },
+    {
+        "slug": "leonberger",
+        "name": "Leonberger",
+        "short_name": ""
+    },
+    {
+        "slug": "lhasa-apso",
+        "name": "Lhasa Apso",
+        "short_name": ""
+    },
+    {
+        "slug": "lithuanian-hound",
+        "name": "Lithuanian Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "irish-wolfhound",
+        "name": "Lobero irlandés",
+        "short_name": ""
+    },
+    {
+        "slug": "longhaired-whipProduct",
+        "name": "Longhaired WhipProduct",
+        "short_name": ""
+    },
+    {
+        "slug": "norwegian-lundehund",
+        "name": "Lundehund",
+        "short_name": ""
+    },
+    {
+        "slug": "lurcher",
+        "name": "Lurcher",
+        "short_name": ""
+    },
+    {
+        "slug": "magyar-viszla",
+        "name": "Magyar Vizsla",
+        "short_name": ""
+    },
+    {
+        "slug": "alaskan-malamute",
+        "name": "Malamute de Alaska",
+        "short_name": ""
+    },
+    {
+        "slug": "manchester-terrier",
+        "name": "Manchester terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "toy-manchester-terrier",
+        "name": "Manchester terrier miniatura",
+        "short_name": ""
+    },
+    {
+        "slug": "american-mastiff",
+        "name": "Mastín americano",
+        "short_name": ""
+    },
+    {
+        "slug": "pyrenean-mastiff",
+        "name": "Mastín del Pirineo",
+        "short_name": ""
+    },
+    {
+        "slug": "spanish-mastiff",
+        "name": "Mastín español",
+        "short_name": ""
+    },
+    {
+        "slug": "english-mastiff",
+        "name": "Mastín inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "mastiff",
+        "name": "Mastín inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "cane-corso",
+        "name": "Mastín italiano",
+        "short_name": ""
+    },
+    {
+        "slug": "neapolitan-mastiff",
+        "name": "Mastín napolitano",
+        "short_name": ""
+    },
+    {
+        "slug": "mcnab",
+        "name": "McNab",
+        "short_name": ""
+    },
+    {
+        "slug": "mi-ki",
+        "name": "Mi-Ki",
+        "short_name": ""
+    },
+    {
+        "slug": "miniature-australian-shepherd",
+        "name": "Miniature Australian Shepherd",
+        "short_name": "Mini Aussie"
+    },
+    {
+        "slug": "miniature-fox-terrier",
+        "name": "Miniature Fox Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "molossus",
+        "name": "Molossus",
+        "short_name": ""
+    },
+    {
+        "slug": "mountain-cur",
+        "name": "Mountain Cur",
+        "short_name": ""
+    },
+    {
+        "slug": "mountain-view-cur",
+        "name": "Mountain View Cur",
+        "short_name": ""
+    },
+    {
+        "slug": "mucuchies",
+        "name": "Mucuchíes",
+        "short_name": ""
+    },
+    {
+        "slug": "mudhol-hound",
+        "name": "Mudhol Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "mudi",
+        "name": "Mudi",
+        "short_name": ""
+    },
+    {
+        "slug": "large-munsterlander",
+        "name": "Münsterländer grande",
+        "short_name": ""
+    },
+    {
+        "slug": "small-munsterlander",
+        "name": "Münsterländer pequeño",
+        "short_name": ""
+    },
+    {
+        "slug": "murray-river-curly-coated-retriever",
+        "name": "Murray River Curly Coated Retriever",
+        "short_name": ""
+    },
+    {
+        "slug": "talbot",
+        "name": "Neath-Port Talbot",
+        "short_name": ""
+    },
+    {
+        "slug": "new-zealand-huntaway",
+        "name": "New Zealand Huntaway",
+        "short_name": ""
+    },
+    {
+        "slug": "norfolk-spaniel",
+        "name": "Norfolk Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "norrbottensProducts",
+        "name": "NorrbottensProducts",
+        "short_name": ""
+    },
+    {
+        "slug": "north-country-beagle",
+        "name": "North Country beagle",
+        "short_name": ""
+    },
+    {
+        "slug": "northern-inuit-dog",
+        "name": "Northern Inuit Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "nova-scotia-duck-tolling-retriever",
+        "name": "Nova Scotia Duck-Tolling Retriever",
+        "short_name": ""
+    },
+    {
+        "slug": "old-croatian-sighthound",
+        "name": "Old Croatian Sighthound",
+        "short_name": ""
+    },
+    {
+        "slug": "old-english-terrier",
+        "name": "Old English Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "old-german-shepherd-dog",
+        "name": "Old German Shepherd Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "old-time-farm-shepherd",
+        "name": "Old Time Farm Shepherd",
+        "short_name": ""
+    },
+    {
+        "slug": "olde-english-bulldogge",
+        "name": "Olde English Bulldogge",
+        "short_name": ""
+    },
+    {
+        "slug": "other-Products",
+        "name": "Otras mascotas",
+        "short_name": ""
+    },
+    {
+        "slug": "otterhound",
+        "name": "Otterhound",
+        "short_name": ""
+    },
+    {
+        "slug": "pachon-navarro",
+        "name": "Pachón navarro",
+        "short_name": ""
+    },
+    {
+        "slug": "paisley-terrier",
+        "name": "Paisley Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "papillon",
+        "name": "Papillón",
+        "short_name": ""
+    },
+    {
+        "slug": "st-bernard",
+        "name": "Parroquia de St. Bernard",
+        "short_name": ""
+    },
+    {
+        "slug": "parson-russell-terrier",
+        "name": "Parson Russell terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "german-shepherd-dog",
+        "name": "Pastor alemán",
+        "short_name": "German Shepherd"
+    },
+    {
+        "slug": "miniature-american-shepherd",
+        "name": "Pastor americano miniatura",
+        "short_name": ""
+    },
+    {
+        "slug": "belgian-shepherd-dog-groenendael",
+        "name": "Pastor belga groenendael",
+        "short_name": ""
+    },
+    {
+        "slug": "belgian-shepherd-dog-laekenois",
+        "name": "Pastor belga laekenois",
+        "short_name": ""
+    },
+    {
+        "slug": "belgian-shepherd-dog-malinois",
+        "name": "Pastor belga malinois",
+        "short_name": "Malinois"
+    },
+    {
+        "slug": "belgian-shepherd-tervuren",
+        "name": "Pastor belga tervuerense",
+        "short_name": ""
+    },
+    {
+        "slug": "white-shepherd-dog",
+        "name": "Pastor blanco",
+        "short_name": ""
+    },
+    {
+        "slug": "berger-blanc-suisse",
+        "name": "Pastor blanco suizo",
+        "short_name": ""
+    },
+    {
+        "slug": "bohemian-shepherd",
+        "name": "Pastor bohemio",
+        "short_name": ""
+    },
+    {
+        "slug": "catalan-sheepdog",
+        "name": "Pastor catalán",
+        "short_name": ""
+    },
+    {
+        "slug": "caucasian-shepherd-dog",
+        "name": "Pastor caucásico",
+        "short_name": ""
+    },
+    {
+        "slug": "anatolian-shepherd-dog",
+        "name": "Pastor de Anatolia",
+        "short_name": ""
+    },
+    {
+        "slug": "central-asian-shepherd-dog",
+        "name": "Pastor de Asia Central",
+        "short_name": ""
+    },
+    {
+        "slug": "tornjak",
+        "name": "Pastor de Bosnia-Herzegovina y Croacia",
+        "short_name": ""
+    },
+    {
+        "slug": "briard",
+        "name": "Pastor de Brie",
+        "short_name": ""
+    },
+    {
+        "slug": "east-european-shepherd",
+        "name": "Pastor de Europa del Este",
+        "short_name": ""
+    },
+    {
+        "slug": "karst-shepherd",
+        "name": "Pastor de Karst",
+        "short_name": ""
+    },
+    {
+        "slug": "shetland-sheepdog",
+        "name": "Pastor de las islas Shetland",
+        "short_name": ""
+    },
+    {
+        "slug": "carpathian-shepherd-dog",
+        "name": "Pastor de los Cárpatos",
+        "short_name": ""
+    },
+    {
+        "slug": "pyrenean-shepherd",
+        "name": "Pastor de los Pirineos",
+        "short_name": ""
+    },
+    {
+        "slug": "maremma-sheepdog",
+        "name": "Pastor de Maremma",
+        "short_name": ""
+    },
+    {
+        "slug": "polish-tatra-sheepdog",
+        "name": "Pastor de Tatra",
+        "short_name": ""
+    },
+    {
+        "slug": "polish-lowland-sheepdog",
+        "name": "Pastor de Valée",
+        "short_name": ""
+    },
+    {
+        "slug": "himalayan-sheepdog",
+        "name": "Pastor del Himalaya",
+        "short_name": ""
+    },
+    {
+        "slug": "south-russian-ovcharka",
+        "name": "Pastor del sur de Rusia",
+        "short_name": ""
+    },
+    {
+        "slug": "australian-cattle-dog",
+        "name": "Pastor ganadero australiano",
+        "short_name": ""
+    },
+    {
+        "slug": "dutch-shepherd-dog",
+        "name": "Pastor holandés",
+        "short_name": ""
+    },
+    {
+        "slug": "english-shepherd",
+        "name": "Pastor inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "icelandic-sheepdog",
+        "name": "Pastor islandés",
+        "short_name": ""
+    },
+    {
+        "slug": "lapponian-herder",
+        "name": "Pastor lapón",
+        "short_name": ""
+    },
+    {
+        "slug": "swedish-lapphund",
+        "name": "Pastor lapón de Suecia",
+        "short_name": ""
+    },
+    {
+        "slug": "australian-shepherd",
+        "name": "Pastor ovejero australiano",
+        "short_name": "Aussie"
+    },
+    {
+        "slug": "bucovina-shepherd-dog",
+        "name": "Pastor rumano de Bucovina",
+        "short_name": ""
+    },
+    {
+        "slug": "mioritic",
+        "name": "Pastor rumano de Mioritza",
+        "short_name": ""
+    },
+    {
+        "slug": "basque-shepherd-dog",
+        "name": "Pastor vasco",
+        "short_name": ""
+    },
+    {
+        "slug": "patterdale-terrier",
+        "name": "Patterdale terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "pekingese",
+        "name": "Pekinés",
+        "short_name": ""
+    },
+    {
+        "slug": "lowchen",
+        "name": "Pequeño perro león",
+        "short_name": ""
+    },
+    {
+        "slug": "russian-toy",
+        "name": "Pequeño perro ruso",
+        "short_name": ""
+    },
+    {
+        "slug": "schweizerischer-niederlaufhund",
+        "name": "Pequeño sabueso de Suiza",
+        "short_name": ""
+    },
+    {
+        "slug": "drentse-patrijshond",
+        "name": "Perdiguero de Drente",
+        "short_name": ""
+    },
+    {
+        "slug": "stabyhoun",
+        "name": "Perdiguero frisón",
+        "short_name": ""
+    },
+    {
+        "slug": "portuguese-pointer",
+        "name": "Perdiguero portugués",
+        "short_name": ""
+    },
+    {
+        "slug": "estonian-hound",
+        "name": "Perro cazador de Estonia",
+        "short_name": ""
+    },
+    {
+        "slug": "cimarron-uruguayo",
+        "name": "Perro cimarrón uruguayo",
+        "short_name": ""
+    },
+    {
+        "slug": "rhodesian-ridgeback",
+        "name": "Perro crestado rodesiano",
+        "short_name": "Ridgeback"
+    },
+    {
+        "slug": "american-water-spaniel",
+        "name": "Perro de agua americano",
+        "short_name": ""
+    },
+    {
+        "slug": "moscow-water-dog",
+        "name": "Perro de agua de Moscú",
+        "short_name": ""
+    },
+    {
+        "slug": "spanish-water-dog",
+        "name": "Perro de agua español",
+        "short_name": ""
+    },
+    {
+        "slug": "wetterhoun",
+        "name": "Perro de agua frisón",
+        "short_name": ""
+    },
+    {
+        "slug": "irish-water-spaniel",
+        "name": "Perro de agua irlandés",
+        "short_name": ""
+    },
+    {
+        "slug": "st-johns-water-dog",
+        "name": "Perro de aguas de San Juan",
+        "short_name": ""
+    },
+    {
+        "slug": "canaan-dog",
+        "name": "Perro de Canaán",
+        "short_name": ""
+    },
+    {
+        "slug": "carolina-dog",
+        "name": "Perro de Carolina",
+        "short_name": ""
+    },
+    {
+        "slug": "cao-de-castro-laboreiro",
+        "name": "Perro de Castro Laboreiro",
+        "short_name": ""
+    },
+    {
+        "slug": "polish-hunting-dog",
+        "name": "Perro de caza polaco",
+        "short_name": ""
+    },
+    {
+        "slug": "korean-jindo-dog",
+        "name": "Perro de Chindo",
+        "short_name": ""
+    },
+    {
+        "slug": "danish-swedish-farmdog",
+        "name": "Perro de granja danés y sueco",
+        "short_name": ""
+    },
+    {
+        "slug": "greenland-dog",
+        "name": "Perro de Groenlandia",
+        "short_name": ""
+    },
+    {
+        "slug": "formosan-mountain-dog",
+        "name": "Perro de montaña de Formosa",
+        "short_name": ""
+    },
+    {
+        "slug": "great-pyrenees",
+        "name": "Perro de montaña de los Pirineos",
+        "short_name": ""
+    },
+    {
+        "slug": "german-longhaired-pointer",
+        "name": "Perro de muestra alemán de pelo largo",
+        "short_name": ""
+    },
+    {
+        "slug": "karelian-bear-dog",
+        "name": "Perro de osos de Carelia",
+        "short_name": ""
+    },
+    {
+        "slug": "cordoba-fighting-dog",
+        "name": "Perro de pelea cordobés",
+        "short_name": ""
+    },
+    {
+        "slug": "perro-de-presa-mallorquin",
+        "name": "Perro de Presa Mallorquin",
+        "short_name": ""
+    },
+    {
+        "slug": "bloodhound",
+        "name": "Perro de San Huberto",
+        "short_name": ""
+    },
+    {
+        "slug": "american-eskimo-dog",
+        "name": "Perro esquimal americano",
+        "short_name": ""
+    },
+    {
+        "slug": "miniature-american-eskimo-dog",
+        "name": "Perro esquimal americano",
+        "short_name": ""
+    },
+    {
+        "slug": "toy-american-eskimo-dog",
+        "name": "Perro esquimal americano",
+        "short_name": ""
+    },
+    {
+        "slug": "canadian-eskimo-dog",
+        "name": "Perro esquimal canadiense",
+        "short_name": ""
+    },
+    {
+        "slug": "moscow-watchdog",
+        "name": "Perro guardián de Moscú",
+        "short_name": ""
+    },
+    {
+        "slug": "czechoslovak-wolfdog",
+        "name": "Perro lobo checoslovaco",
+        "short_name": ""
+    },
+    {
+        "slug": "kunming-wolfdog",
+        "name": "Perro lobo de Kunmíng",
+        "short_name": ""
+    },
+    {
+        "slug": "mixed",
+        "name": "Perro mestizo",
+        "short_name": "Mixed Breed"
+    },
+    {
+        "slug": "hawaiian-poi-dog",
+        "name": "Perro Poi hawaiano",
+        "short_name": ""
+    },
+    {
+        "slug": "peruvian-hairless-dog",
+        "name": "Perro sin pelo del Perú",
+        "short_name": ""
+    },
+    {
+        "slug": "Productit-bleu-de-gascogne",
+        "name": "Productit Bleu de Gascogne",
+        "short_name": ""
+    },
+    {
+        "slug": "phalene",
+        "name": "Phalène",
+        "short_name": ""
+    },
+    {
+        "slug": "pharaoh-hound",
+        "name": "Pharaoh hound",
+        "short_name": ""
+    },
+    {
+        "slug": "phu-quoc-ridgeback-dog",
+        "name": "Phu Quoc ridgeback dog",
+        "short_name": ""
+    },
+    {
+        "slug": "german-pinscher",
+        "name": "Pinscher alemán",
+        "short_name": ""
+    },
+    {
+        "slug": "miniature-pinscher",
+        "name": "Pinscher miniatura",
+        "short_name": ""
+    },
+    {
+        "slug": "american-pit-bull-terrier",
+        "name": "Pit bull terrier americano",
+        "short_name": "Pit Bull"
+    },
+    {
+        "slug": "pitbull-mix",
+        "name": "PitBull Mix",
+        "short_name": ""
+    },
+    {
+        "slug": "plott-hound",
+        "name": "Plott hound",
+        "short_name": ""
+    },
+    {
+        "slug": "podenco-andaluz",
+        "name": "Podenco Andaluz",
+        "short_name": ""
+    },
+    {
+        "slug": "podenco-canario",
+        "name": "Podenco canario",
+        "short_name": ""
+    },
+    {
+        "slug": "ibizan-hound",
+        "name": "Podenco ibicenco",
+        "short_name": ""
+    },
+    {
+        "slug": "portuguese-podengo",
+        "name": "Podenco portugués",
+        "short_name": ""
+    },
+    {
+        "slug": "pointer",
+        "name": "Pointer inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "polish-hound",
+        "name": "Polish Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "pomeranian",
+        "name": "Pomerania",
+        "short_name": ""
+    },
+    {
+        "slug": "pont-audemer-spaniel",
+        "name": "Pont-Audemer Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "porcelaine",
+        "name": "Porcelana",
+        "short_name": ""
+    },
+    {
+        "slug": "posavac-hound",
+        "name": "Posavac Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "sanshu",
+        "name": "Provincia de Mikawa",
+        "short_name": ""
+    },
+    {
+        "slug": "pudelpointer",
+        "name": "Pudelpointer",
+        "short_name": ""
+    },
+    {
+        "slug": "pug",
+        "name": "Pug",
+        "short_name": ""
+    },
+    {
+        "slug": "puggle",
+        "name": "Puggle",
+        "short_name": ""
+    },
+    {
+        "slug": "puli",
+        "name": "Puli",
+        "short_name": ""
+    },
+    {
+        "slug": "pumi",
+        "name": "Pumi",
+        "short_name": ""
+    },
+    {
+        "slug": "pungsan-dog",
+        "name": "Pungsan Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "rafeiro-do-alentejo",
+        "name": "Rafeiro do Alentejo",
+        "short_name": ""
+    },
+    {
+        "slug": "rajapalayam",
+        "name": "Rajapalayam",
+        "short_name": ""
+    },
+    {
+        "slug": "rampur-greyhound",
+        "name": "Rampur Greyhound",
+        "short_name": ""
+    },
+    {
+        "slug": "rastreador-brasileiro",
+        "name": "Rastreador brasileño",
+        "short_name": ""
+    },
+    {
+        "slug": "rat-terrier",
+        "name": "Rat Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "ratonero-bodeguero-andaluz",
+        "name": "Ratonero bodeguero andaluz",
+        "short_name": ""
+    },
+    {
+        "slug": "prazsky-krysarik",
+        "name": "Ratonero de Praga",
+        "short_name": ""
+    },
+    {
+        "slug": "dutch-smoushond",
+        "name": "Ratonero holandés",
+        "short_name": ""
+    },
+    {
+        "slug": "redbone-coonhound",
+        "name": "Redbone coonhound",
+        "short_name": ""
+    },
+    {
+        "slug": "shikoku",
+        "name": "Región de Shikoku",
+        "short_name": ""
+    },
+    {
+        "slug": "chesapeake-bay-retriever",
+        "name": "Retriever de Chesapeake",
+        "short_name": ""
+    },
+    {
+        "slug": "curly-coated-retriever",
+        "name": "Retriever de pelo rizado",
+        "short_name": ""
+    },
+    {
+        "slug": "thai-ridgeback",
+        "name": "Ridgeback tailandés",
+        "short_name": ""
+    },
+    {
+        "slug": "rottweiler",
+        "name": "Rottweiler",
+        "short_name": ""
+    },
+    {
+        "slug": "russian-spaniel",
+        "name": "Russian Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "saarlooswolfhond",
+        "name": "Saarlooswolfhond",
+        "short_name": ""
+    },
+    {
+        "slug": "artois-hound",
+        "name": "Sabueso artesiano",
+        "short_name": ""
+    },
+    {
+        "slug": "bavarian-mountain-hound",
+        "name": "Sabueso bávaro de montaña",
+        "short_name": ""
+    },
+    {
+        "slug": "bosnian-coarse-haired-hound",
+        "name": "Sabueso bosnio",
+        "short_name": ""
+    },
+    {
+        "slug": "hanover-hound",
+        "name": "Sabueso de Hannover",
+        "short_name": ""
+    },
+    {
+        "slug": "hygenhund",
+        "name": "Sabueso de Hygen",
+        "short_name": ""
+    },
+    {
+        "slug": "istrian-shorthaired-hound",
+        "name": "Sabueso de Istria de pelo corto",
+        "short_name": ""
+    },
+    {
+        "slug": "deutsche-bracke",
+        "name": "Sabueso de sangre de Baviera",
+        "short_name": ""
+    },
+    {
+        "slug": "smalandsstovare",
+        "name": "Sabueso de Smaland",
+        "short_name": ""
+    },
+    {
+        "slug": "hungarian-hound",
+        "name": "Sabueso de Transilvania",
+        "short_name": ""
+    },
+    {
+        "slug": "transylvanian-hound",
+        "name": "Sabueso de Transilvania",
+        "short_name": ""
+    },
+    {
+        "slug": "ariegeois",
+        "name": "Sabueso del Ariège",
+        "short_name": ""
+    },
+    {
+        "slug": "sabueso-espanol",
+        "name": "Sabueso español",
+        "short_name": ""
+    },
+    {
+        "slug": "grand-anglo-francais-tricolore",
+        "name": "Sabueso francés tricolor",
+        "short_name": ""
+    },
+    {
+        "slug": "montenegrin-mountain-hound",
+        "name": "Sabueso montañés de Montenegro",
+        "short_name": ""
+    },
+    {
+        "slug": "serbian-hound",
+        "name": "Sabueso serbio",
+        "short_name": ""
+    },
+    {
+        "slug": "serbian-tricolour-hound",
+        "name": "Sabueso serbio tricolor",
+        "short_name": ""
+    },
+    {
+        "slug": "saint-usuge-spaniel",
+        "name": "Saint-Usuge Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "saluki",
+        "name": "Saluki",
+        "short_name": ""
+    },
+    {
+        "slug": "samoyed",
+        "name": "Samoyedo",
+        "short_name": ""
+    },
+    {
+        "slug": "sapsali",
+        "name": "Sapsali",
+        "short_name": ""
+    },
+    {
+        "slug": "sarplaninac",
+        "name": "Šarplaninac",
+        "short_name": ""
+    },
+    {
+        "slug": "schapendoes",
+        "name": "Schapendoes",
+        "short_name": ""
+    },
+    {
+        "slug": "schillerstovare",
+        "name": "Schillerstovare",
+        "short_name": ""
+    },
+    {
+        "slug": "schipperke",
+        "name": "Schipperke",
+        "short_name": ""
+    },
+    {
+        "slug": "standard-schnauzer",
+        "name": "Schnauzer estándar",
+        "short_name": ""
+    },
+    {
+        "slug": "giant-schnauzer",
+        "name": "Schnauzer gigante",
+        "short_name": ""
+    },
+    {
+        "slug": "miniature-schnauzer",
+        "name": "Schnauzer miniatura",
+        "short_name": ""
+    },
+    {
+        "slug": "schweizer-laufhund",
+        "name": "Schweizer Laufhund",
+        "short_name": ""
+    },
+    {
+        "slug": "scotch-collie",
+        "name": "Scotch Collie",
+        "short_name": ""
+    },
+    {
+        "slug": "sealyham-terrier",
+        "name": "Sealyham terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "segugio-italiano",
+        "name": "Segugio Italiano",
+        "short_name": ""
+    },
+    {
+        "slug": "seppala-siberian-sleddog",
+        "name": "Seppala Siberian Sleddog",
+        "short_name": ""
+    },
+    {
+        "slug": "english-setter",
+        "name": "Setter inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "irish-setter",
+        "name": "Setter irlandés",
+        "short_name": ""
+    },
+    {
+        "slug": "shar-pei",
+        "name": "Shar Pei",
+        "short_name": ""
+    },
+    {
+        "slug": "shiba-inu",
+        "name": "Shiba Inu",
+        "short_name": ""
+    },
+    {
+        "slug": "shih-tzu",
+        "name": "Shih Tzu",
+        "short_name": ""
+    },
+    {
+        "slug": "shiloh-shepherd-dog",
+        "name": "Shiloh Shepherd Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "silken-windhound",
+        "name": "Silken Windhound",
+        "short_name": ""
+    },
+    {
+        "slug": "australian-silky-terrier",
+        "name": "Silky terrier australiano",
+        "short_name": ""
+    },
+    {
+        "slug": "silky-terrier",
+        "name": "Silky terrier australiano",
+        "short_name": ""
+    },
+    {
+        "slug": "sinhala-hound",
+        "name": "Sinhala Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "elo",
+        "name": "Sistema de puntuación Elo",
+        "short_name": ""
+    },
+    {
+        "slug": "skye-terrier",
+        "name": "Skye terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "sloughi",
+        "name": "Sloughi",
+        "short_name": ""
+    },
+    {
+        "slug": "slovakian-rough-haired-pointer",
+        "name": "Slovakian Rough-haired Pointer",
+        "short_name": ""
+    },
+    {
+        "slug": "small-greek-domestic-dog",
+        "name": "Small Greek Domestic Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "soft-coated-wheaten-terrier",
+        "name": "Soft-Coated Wheaten Terrier",
+        "short_name": "Wheaten"
+    },
+    {
+        "slug": "southern-hound",
+        "name": "Southern hound",
+        "short_name": ""
+    },
+    {
+        "slug": "german-spaniel",
+        "name": "Spaniel alemán",
+        "short_name": ""
+    },
+    {
+        "slug": "brittany",
+        "name": "Spaniel bretón",
+        "short_name": ""
+    },
+    {
+        "slug": "french-brittany",
+        "name": "Spaniel bretón",
+        "short_name": ""
+    },
+    {
+        "slug": "field-spaniel",
+        "name": "Spaniel de campo",
+        "short_name": ""
+    },
+    {
+        "slug": "french-spaniel",
+        "name": "Spaniel francés",
+        "short_name": ""
+    },
+    {
+        "slug": "kooikerhondje",
+        "name": "Spaniel holandés",
+        "short_name": ""
+    },
+    {
+        "slug": "japanese-chin",
+        "name": "Spaniel japonés",
+        "short_name": ""
+    },
+    {
+        "slug": "picardy-spaniel",
+        "name": "Spaniel picardo",
+        "short_name": ""
+    },
+    {
+        "slug": "tibetan-spaniel",
+        "name": "Spaniel tibetano",
+        "short_name": ""
+    },
+    {
+        "slug": "spinone-italiano",
+        "name": "Spinone",
+        "short_name": ""
+    },
+    {
+        "slug": "finnish-spitz",
+        "name": "Spitz finlandés",
+        "short_name": ""
+    },
+    {
+        "slug": "indian-spitz",
+        "name": "Spitz indio",
+        "short_name": ""
+    },
+    {
+        "slug": "japanese-spitz",
+        "name": "Spitz japonés",
+        "short_name": ""
+    },
+    {
+        "slug": "sporting-lucas-terrier",
+        "name": "Sporting Lucas Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "welsh-springer-spaniel",
+        "name": "Springer spaniel galés",
+        "short_name": ""
+    },
+    {
+        "slug": "english-springer-spaniel",
+        "name": "Springer spaniel inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "staffordshire-bull-terrier",
+        "name": "Staffordshire bull terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "steinbracke",
+        "name": "Steinbracke",
+        "short_name": ""
+    },
+    {
+        "slug": "stephens-cur",
+        "name": "Stephens Cur",
+        "short_name": ""
+    },
+    {
+        "slug": "styrian-coarse-haired-hound",
+        "name": "Styrian Coarse-haired Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "sussex-spaniel",
+        "name": "Sussex spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "tahltan-bear-dog",
+        "name": "Tahltan Bear Dog",
+        "short_name": ""
+    },
+    {
+        "slug": "taigan",
+        "name": "Taigan",
+        "short_name": ""
+    },
+    {
+        "slug": "tamaskan-dog",
+        "name": "Tamaskan",
+        "short_name": ""
+    },
+    {
+        "slug": "teddy-roosevelt-terrier",
+        "name": "Teddy Roosevelt Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "westphalian-dachsbracke",
+        "name": "Tejonero de Westfalia",
+        "short_name": ""
+    },
+    {
+        "slug": "telomian",
+        "name": "Telomian",
+        "short_name": ""
+    },
+    {
+        "slug": "tennessee-treeing-brindle",
+        "name": "Tennessee Treeing Brindle",
+        "short_name": ""
+    },
+    {
+        "slug": "tenterfield-terrier",
+        "name": "Tenterfield Terrier",
+        "short_name": ""
+    },
+    {
+        "slug": "newfoundland",
+        "name": "Terranova",
+        "short_name": ""
+    },
+    {
+        "slug": "terrier",
+        "name": "Terrier",
+        "short_name": "Terrier"
+    },
+    {
+        "slug": "jagdterrier",
+        "name": "Terrier alemán",
+        "short_name": ""
+    },
+    {
+        "slug": "american-hairless-terrier",
+        "name": "Terrier americano sin pelo",
+        "short_name": ""
+    },
+    {
+        "slug": "brazilian-terrier",
+        "name": "Terrier brasileño",
+        "short_name": ""
+    },
+    {
+        "slug": "cesky-terrier",
+        "name": "Terrier checo",
+        "short_name": ""
+    },
+    {
+        "slug": "chilean-fox-terrier",
+        "name": "Terrier chileno",
+        "short_name": ""
+    },
+    {
+        "slug": "australian-terrier",
+        "name": "Terrier de Australia",
+        "short_name": ""
+    },
+    {
+        "slug": "norfolk-terrier",
+        "name": "Terrier de Norfolk",
+        "short_name": ""
+    },
+    {
+        "slug": "norwich-terrier",
+        "name": "Terrier de Norwich",
+        "short_name": ""
+    },
+    {
+        "slug": "scottish-terrier",
+        "name": "Terrier escocés",
+        "short_name": ""
+    },
+    {
+        "slug": "welsh-terrier",
+        "name": "Terrier galés",
+        "short_name": ""
+    },
+    {
+        "slug": "english-white-terrier",
+        "name": "Terrier inglés blanco",
+        "short_name": ""
+    },
+    {
+        "slug": "english-toy-terrier-black-and-tan",
+        "name": "Terrier inglés miniatura",
+        "short_name": ""
+    },
+    {
+        "slug": "irish-terrier",
+        "name": "Terrier irlandés",
+        "short_name": ""
+    },
+    {
+        "slug": "japanese-terrier",
+        "name": "Terrier japonés",
+        "short_name": ""
+    },
+    {
+        "slug": "black-russian-terrier",
+        "name": "Terrier ruso negro",
+        "short_name": ""
+    },
+    {
+        "slug": "tibetan-terrier",
+        "name": "Terrier tibetano",
+        "short_name": ""
+    },
+    {
+        "slug": "tosa",
+        "name": "Tosa",
+        "short_name": ""
+    },
+    {
+        "slug": "toy-bulldog",
+        "name": "Toy Bulldog",
+        "short_name": ""
+    },
+    {
+        "slug": "king-charles-spaniel",
+        "name": "Toy spaniel inglés",
+        "short_name": ""
+    },
+    {
+        "slug": "toy-fox-terrier",
+        "name": "Toy terrier americano",
+        "short_name": ""
+    },
+    {
+        "slug": "toy-trawler-spaniel",
+        "name": "Toy Trawler Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "treeing-cur",
+        "name": "Treeing Cur",
+        "short_name": ""
+    },
+    {
+        "slug": "treeing-walker-coonhound",
+        "name": "Treeing Walker Coonhound",
+        "short_name": "Coonhound"
+    },
+    {
+        "slug": "trigg-hound",
+        "name": "Trigg Hound",
+        "short_name": ""
+    },
+    {
+        "slug": "tweed-water-spaniel",
+        "name": "Tweed Water Spaniel",
+        "short_name": ""
+    },
+    {
+        "slug": "utonagan",
+        "name": "Utonagan",
+        "short_name": ""
+    },
+    {
+        "slug": "swedish-vallhund",
+        "name": "Vallhund sueco",
+        "short_name": ""
+    },
+    {
+        "slug": "vizsla",
+        "name": "Vizsla",
+        "short_name": ""
+    },
+    {
+        "slug": "volpino-italiano",
+        "name": "Volpino italiano",
+        "short_name": ""
+    },
+    {
+        "slug": "welsh-sheepdog",
+        "name": "Welsh Sheepdog",
+        "short_name": ""
+    },
+    {
+        "slug": "west-highland-white-terrier",
+        "name": "West Highland white terrier",
+        "short_name": "Westie"
+    },
+    {
+        "slug": "whipProduct",
+        "name": "WhipProduct",
+        "short_name": ""
+    },
+    {
+        "slug": "white-english-bulldog",
+        "name": "White English Bulldog",
+        "short_name": ""
+    },
+    {
+        "slug": "wirehaired-vizsla",
+        "name": "Wirehaired Vizsla",
+        "short_name": ""
+    },
+    {
+        "slug": "mexican-hairless-dog",
+        "name": "Xoloitzcuintle",
+        "short_name": ""
+    },
+    {
+        "slug": "yorkshire-terrier",
+        "name": "Yorkshire terrier",
+        "short_name": ""
+    }
+]

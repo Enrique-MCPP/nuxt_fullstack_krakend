@@ -1,0 +1,17 @@
+{
+    "login" : {
+        "email": "Correu electrònic",
+        "password": "Contrassenya",
+        "forgotPassword": "Has oblidat la contrassenya?",
+        "login": "Iniciar sessió",
+        "signUp": "Registra't",
+        "rememberMe": "Recorda'm",
+        "createOne": "No tens un compte? Crea'n una",
+        "socialLogin": "O inicia sessió amb les xarxes socials",
+        "emailRequired": "El correu electrònic és obligatori",
+        "passwordRequired": "La contrasenya ha de tenir almenys 3 caràcters",
+        "signInWithGoogle": "Iniciar sessió amb Google",
+        "signInWithApple": "Iniciar sessió amb Apple",
+        "signInWithFacebook": "Iniciar sessió amb Facebook"
+    }
+}

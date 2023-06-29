@@ -1,0 +1,17 @@
+{
+    "login" : {
+        "email": "Posta elektronikoa",
+        "password": "Pasahitza",
+        "forgotPassword": "Pasahitza ahaztu al duzu?",
+        "login": "Saioa hasi",
+        "signUp": "Izena eman hemen",
+        "rememberMe": "Gogora nazazu",
+        "createOne": "Ez al duzu konturik? Sortu a",
+        "socialLogin": "Edo hasi saioa zure sare sozialekin",
+        "emailRequired": "Posta elektronikoa beharrezkoa da",
+        "passwordRequired": "Pasahitzak 3 karaktere izan behar ditu gutxienez",
+        "signInWithGoogle": "Hasi saioa Google-rekin",
+        "signInWithApple": "Hasi saioa Apple-rekin",
+        "signInWithFacebook": "Hasi saioa Facebook-en"
+    }
+}
